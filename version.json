@@ -1,8 +1,8 @@
 {
   "version":"0.0.0.2",
-  "number":2,
+  "number":3,
   "date":"25 марта 2019",
   "link":"https://github.com/Pakulichev/PoliceTools/blob/master/PoliceToolsByGarson.luac?raw=true",
   "text":"- Новая система обновлений",
-  "libs":"imgui.lua,faIcons.lua,rkeys.lua,imgui_addons.lua"
+  "libs":"imgui.lua,faIcons.lua,rkeys.lua,imgui_addons.lua,kek.lua"
 }

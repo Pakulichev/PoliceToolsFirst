@@ -3,5 +3,6 @@
   "number":2,
   "date":"25 марта 2019",
   "link":"https://github.com/Pakulichev/PoliceTools/blob/master/PoliceToolsByGarson.luac?raw=true",
-  "text":"- Новая система обновлений"
+  "text":"- Новая система обновлений",
+  "libs":"imgui,faIcons,rkeys,imgui_addons"
 }

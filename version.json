@@ -1,8 +1,8 @@
 {
-  "version":"0.0.0.3",
-  "number":3,
+  "version":"0.0.0.4",
+  "number":4,
   "date":"31 марта 2019",
   "link":"https://github.com/Pakulichev/PoliceTools/blob/master/PoliceToolsByGarson.luac?raw=true",
-  "text":"- Исправлена система сохранения клавиш\n\t- Исправлена система использования клавиш",
+  "text":"- Исправлена система оверлея",
   "libs":"imgui.lua,faIcons.lua,rkeys.lua,imgui_addons.lua,effil.lua,requests.lua"
 }
